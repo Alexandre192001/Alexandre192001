@@ -1,8 +1,8 @@
 ## Olá, me chamo Alexandre 
 
-- 🔭 Atualmente não trabalho, mas pretendo trabalhar como front-end
-- 🌱 Atualmente estou estudando ReactJs
-- 😄 Pronouns: Ele/Dele
+- 🔭 Atualmente não trabalho, mas tenho interesse em trabalhar como front-end;
+- 🌱 Atualmente estou estudando ReactJs;
+- 😄 Pronouns: Ele/Dele.
 
 
 <div>
