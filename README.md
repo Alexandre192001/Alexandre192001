@@ -35,7 +35,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Ale-mongodb" height="30" width="100" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img align="center" alt="Ale-mongodb" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img align="center" alt="Ale-mongodb" height="50" width="100" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png">
+ 
   
 </div>
 
