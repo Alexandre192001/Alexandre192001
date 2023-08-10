@@ -1,7 +1,7 @@
 ## Olá, me chamo Alexandre 
 
 - 🔭 Tenho interesse em trabalhar como front-end;
-- 🌱 Atualmente estou estudando NodeJS;
+- 🌱 Atualmente estou estudando ReactJS - Redux ;
 - 😄 Pronouns: Ele/Dele.
 
 
