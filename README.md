@@ -2,7 +2,7 @@
 
 - 🔭 Tenho interesse em trabalhar como front-end;
 - 🌱 Atualmente estou estudando ReactJS - Redux ;
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 
 
 <div>
